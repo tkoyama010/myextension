@@ -1,6 +1,6 @@
 # myextension
 
-[![Github Actions Status](https://github.com/tkoyama010/myextension.git/workflows/Build/badge.svg)](https://github.com/tkoyama010/myextension.git/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tkoyama010/myextension.git/main?urlpath=lab)
+[![Github Actions Status](https://github.com/tkoyama010/myextension/workflows/Build/badge.svg)](https://github.com/tkoyama010/myextension/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tkoyama010/myextension/main?urlpath=lab)
 A JupyterLab extension.
 
 This extension is composed of a Python package named `myextension`

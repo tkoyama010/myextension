@@ -7,9 +7,9 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/tkoyama010/myextension.git",
+  "homepage": "https://github.com/tkoyama010/myextension",
   "bugs": {
-    "url": "https://github.com/tkoyama010/myextension.git/issues"
+    "url": "https://github.com/tkoyama010/myextension/issues"
   },
   "license": "BSD-3-Clause",
   "author": {
@@ -25,7 +25,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tkoyama010/myextension.git.git"
+    "url": "https://github.com/tkoyama010/myextension.git"
   },
   "workspaces": [
     "ui-tests"
